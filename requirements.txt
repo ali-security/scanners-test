@@ -1,0 +1,7 @@
+pillow==6.2.1
+numpy==1.17.4
+#numpy==1.17.3s
+#numpy==1.17.2+snoopy
+#numpy==1.17.1-blabla
+#numpy==1.17.0.5
+spotify_tensorflow
