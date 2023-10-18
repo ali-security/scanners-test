@@ -1,0 +1,17 @@
+{
+  "name": "test-names",
+  "version": "1.0.0",
+  "description": "Test different names for our packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@seal-security/mongoose-fixed": "^5.3.3",
+    "ejs": "^2.7.4-sp1",
+    "is-odd": "^3.0.1",
+    "lodash": "^4.17.15-sp1"
+  }
+}

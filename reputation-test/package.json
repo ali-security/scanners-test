@@ -1,0 +1,15 @@
+{
+  "name": "test-reputation",
+  "version": "1.0.0",
+  "description": "Test low usage packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@seal-security/mongoose-fixed": "^5.3.4",
+    "is-odd": "^3.0.1"
+  }
+}
